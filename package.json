@@ -1,0 +1,7 @@
+{
+  "name": "makefun-meme-entry",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Agent-authored meme entry for make.fun: Post the Meme, Win the Feed"
+}
